@@ -1,0 +1,4 @@
+PIL intro resources: 
+
+https://www.youtube.com/watch?v=dkp4wUhCwR4&t=810s
+https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html
